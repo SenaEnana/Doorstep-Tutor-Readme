@@ -13,4 +13,8 @@ A web application designed to connect students with instructors for home tutorin
 - 👨‍🎓 Student dashboard
 - 👨‍🏫 Instructor dashboard
 - 📚 Tutor management
+- 👥 User management
+- 📊 Interactive dashboards
+- 📱 Responsive design
+
 
