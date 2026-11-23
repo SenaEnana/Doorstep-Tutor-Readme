@@ -11,4 +11,6 @@ A web application designed to connect students with instructors for home tutorin
 
 - 🔐 Role-based authentication
 - 👨‍🎓 Student dashboard
+- 👨‍🏫 Instructor dashboard
+- 📚 Tutor management
 
