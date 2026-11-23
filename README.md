@@ -7,3 +7,8 @@
 
 A web application designed to connect students with instructors for home tutoring. The platform simplifies tutor discovery, communication, and user management through a secure and user-friendly interface.
 
+## ✨ Features
+
+- 🔐 Role-based authentication
+- 👨‍🎓 Student dashboard
+
