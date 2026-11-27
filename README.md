@@ -17,4 +17,8 @@ A web application designed to connect students with instructors for home tutorin
 - 📊 Interactive dashboards
 - 📱 Responsive design
 
+## 🛠️ Tech Stack
+
+### Frontend
+- Next.js
 
