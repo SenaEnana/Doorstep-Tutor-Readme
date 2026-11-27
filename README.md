@@ -22,3 +22,8 @@ A web application designed to connect students with instructors for home tutorin
 ### Frontend
 - Next.js
 
+### Backend
+- REST API
+- Next.js
+
+
