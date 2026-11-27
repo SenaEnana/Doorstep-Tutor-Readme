@@ -26,4 +26,6 @@ A web application designed to connect students with instructors for home tutorin
 - REST API
 - Next.js
 
+### Database
+- MySQL
 
