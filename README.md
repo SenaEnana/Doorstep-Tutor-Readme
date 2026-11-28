@@ -41,4 +41,15 @@ A web application designed to connect students with instructors for home tutorin
 - npm
 - MySQL
 
+### Installation
+
+```bash
+git clone https://github.com/SenaEnana/dts-full.git
+
+cd dts-full
+
+npm install
+
+npm run dev
+```
 
