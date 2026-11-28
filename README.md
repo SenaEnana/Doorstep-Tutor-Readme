@@ -55,4 +55,5 @@ npm run dev
 ## 🎯 Project Goals
 - Connect students with qualified instructors
 - Simplify tutor management
+- Provide a secure platform for both students and tutors
 
