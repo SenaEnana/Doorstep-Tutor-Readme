@@ -38,4 +38,7 @@ A web application designed to connect students with instructors for home tutorin
 ### Prerequisites
 
 - Node.js
+- npm
+- MySQL
+
 
