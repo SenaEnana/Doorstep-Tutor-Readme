@@ -58,3 +58,5 @@ npm run dev
 - Provide a secure platform for both students and tutors
 - Deliver a responsive and intuitive user experience
 
+## 👨‍💻 Author
+
