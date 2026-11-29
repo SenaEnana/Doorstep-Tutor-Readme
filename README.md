@@ -56,4 +56,5 @@ npm run dev
 - Connect students with qualified instructors
 - Simplify tutor management
 - Provide a secure platform for both students and tutors
+- Deliver a responsive and intuitive user experience
 
